@@ -7,6 +7,7 @@
 ~~~
 
 student2 - root:
+
 <img width="862" height="280" alt="image" src="https://github.com/user-attachments/assets/e36f654d-2a3c-4c62-bce1-89d26db53da9" />
 
 Обезреживание и проверка:
